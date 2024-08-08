@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2024-07-25T01:16:09+00:00</lastmod>
+		<lastmod>2024-08-08T00:35:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -875,6 +875,50 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/07/cleaned1721868396_zemlya_sergiia_borzova.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/prybutkovyj-lis-yak-i-navishho-viktor-smal-prominyav-svij-biznes-na-posadu-golovy-derzhlisagenstva/</loc>
+		<lastmod>2024-08-08T00:20:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070766_lis_crea2_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070769_scheme_smalj.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070764_derevyna_dp_lisy_ukrainy_dlya_fortyfikaciy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070765_tender_na_postavku_derevyny_tov_ted.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070765_obsyag_prodajiv_tov_ted.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070765_getcontact_maksym_pyrogov_tov_ted.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/pribylnyj-les-kak-i-zachem-viktor-smal-promenyal-svoj-biznes-na-dolzhnost-glavy-goslesagenstva/</loc>
+		<lastmod>2024-08-08T00:35:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070766_lis_crea2_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070769_scheme_smalj.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070764_derevyna_dp_lisy_ukrainy_dlya_fortyfikaciy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070765_tender_na_postavku_derevyny_tov_ted.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070765_obsyag_prodajiv_tov_ted.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070765_getcontact_maksym_pyrogov_tov_ted.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
