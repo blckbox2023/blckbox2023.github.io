@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2024-08-08T00:35:16+00:00</lastmod>
+		<lastmod>2024-08-21T01:19:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -919,6 +919,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1723070765_getcontact_maksym_pyrogov_tov_ted.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/andrij-ryba-yak-deputat-vid-yes-ta-drug-mera-uzhgoroda-vtik-z-ukrayiny-z-korupczijnym-statkom/</loc>
+		<lastmod>2024-08-21T01:10:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201788_fish_crea_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201788_bogdan_andriiv_i_andrii_ryba.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201790_komentar_pro_andriya_rybu.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201790_kseniya_ryba.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201791_scheme_fish___1___.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201791_pracivnyky_tov_ksemar_dovidka_volodymyr_kovalenko.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201792_vidguk_pro_deputata_anriya_rybu.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/andrej-ryba-kak-deputat-ot-es-i-drug-mera-uzhgoroda-sbezhal-iz-ukrainy-s-korrupczionnymi-dengami/</loc>
+		<lastmod>2024-08-21T01:19:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201788_fish_crea_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201788_bogdan_andriiv_i_andrii_ryba.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201790_komentar_pro_andriya_rybu.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201790_kseniya_ryba.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201791_scheme_fish___1___.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201791_pracivnyky_tov_ksemar_dovidka_volodymyr_kovalenko.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201792_vidguk_pro_deputata_anriya_rybu.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
