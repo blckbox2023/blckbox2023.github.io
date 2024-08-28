@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2024-08-21T01:19:34+00:00</lastmod>
+		<lastmod>2024-08-28T00:07:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -969,6 +969,50 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724201792_vidguk_pro_deputata_anriya_rybu.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-sergej-liseyuk-glavnyj-nalogovik-volyni-prikryvaet-kontrabandu-avtomobilej/</loc>
+		<lastmod>2024-08-28T00:07:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802422_bazilio_crea_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802426_serhiy_lyseuk_podatkivec_volyni.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802427_zemlya_sergiya_lyseuka_v_kozyncyah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802425_mykhaylo_smolka.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802426_shema_luseuk.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802420_audi_zavezena_yak_gumdopomoga_mykhailom_smolkoyu.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-sergij-liseyuk-golovnij-podatkivecz-volini-prikrivaye-kontrabandu-avtomobiliv/</loc>
+		<lastmod>2024-08-28T00:07:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802422_bazilio_crea_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802426_serhiy_lyseuk_podatkivec_volyni.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802427_zemlya_sergiya_lyseuka_v_kozyncyah.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802425_mykhaylo_smolka.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802426_shema_luseuk.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802420_audi_zavezena_yak_gumdopomoga_mykhailom_smolkoyu.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

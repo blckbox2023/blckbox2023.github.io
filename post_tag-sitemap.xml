@@ -13,12 +13,12 @@
 		<lastmod>2023-11-30T22:43:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/maksim-krippa-uk/</loc>
-		<lastmod>2023-11-30T17:37:25+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/en/tag/maksim-krippa/</loc>
 		<lastmod>2023-11-30T22:43:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/maksim-krippa-uk/</loc>
+		<lastmod>2023-11-30T17:37:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/maksym-poliakov/</loc>
@@ -41,12 +41,12 @@
 		<lastmod>2023-11-30T17:37:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/ru/tag/noosphere-ru/</loc>
-		<lastmod>2023-12-27T22:25:06+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/en/tag/noosphere/</loc>
 		<lastmod>2023-11-30T22:43:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/noosphere-ru/</loc>
+		<lastmod>2023-12-27T22:25:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/noosphere-ventures/</loc>
@@ -141,12 +141,12 @@
 		<lastmod>2024-08-08T00:20:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/ru/tag/dzhoker-ru/</loc>
-		<lastmod>2024-03-28T09:50:31+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/tag/dzhoker/</loc>
 		<lastmod>2024-03-28T09:49:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/dzhoker-ru/</loc>
+		<lastmod>2024-03-28T09:50:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/dmitrij-tishko/</loc>
@@ -273,8 +273,16 @@
 		<lastmod>2024-07-25T01:16:09+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/sergej-liseyuk/</loc>
+		<lastmod>2024-08-28T00:07:42+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/sergij-borzov/</loc>
 		<lastmod>2024-07-25T01:14:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/sergij-lyseyuk/</loc>
+		<lastmod>2024-08-28T00:07:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/tatyana-snopko-ru/</loc>
@@ -293,12 +301,12 @@
 		<lastmod>2024-08-21T01:10:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/ukrenergo/</loc>
-		<lastmod>2024-04-10T08:32:32+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/ru/tag/ukrenergo-ru/</loc>
 		<lastmod>2024-04-10T08:34:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/ukrenergo/</loc>
+		<lastmod>2024-04-10T08:32:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/yurij-bolohovecz/</loc>
