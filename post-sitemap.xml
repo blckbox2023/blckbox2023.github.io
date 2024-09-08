@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2024-08-28T00:07:56+00:00</lastmod>
+		<lastmod>2024-09-08T22:14:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -1013,6 +1013,62 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/08/cleaned1724802420_audi_zavezena_yak_gumdopomoga_mykhailom_smolkoyu.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-mer-cherkass-anatolij-bondarenko-obogashhaetsya-na-tenderah-i-gorodskih-zemlyah/</loc>
+		<lastmod>2024-09-08T22:13:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725632300_bond_crea_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633659_mer_cherkas_bondarenko_z_druzhinoyu_valerieu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633682_budynok_mera_cherkas_anatoliya_bondarenka.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725632408_scheme_cherkasi_2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633537_tendery_sho_vygraye_tov_koltex_trans.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633644_serhii_kolesnichenko_i_mer_cherkas_anatolii_bondarenko.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633674_mer_cherkas_bondarenko_i_yogo_vodii_anatolii_cvetkovskii.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725632306_scheme_cherkasi.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-anatolij-bondarenko-mer-cherkas-zbagachuyetsya-na-tenderah-ta-miskyh-zemlyah/</loc>
+		<lastmod>2024-09-08T22:14:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725632300_bond_crea_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633659_mer_cherkas_bondarenko_z_druzhinoyu_valerieu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633682_budynok_mera_cherkas_anatoliya_bondarenka.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725632408_scheme_cherkasi_2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633537_tendery_sho_vygraye_tov_koltex_trans.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633644_serhii_kolesnichenko_i_mer_cherkas_anatolii_bondarenko.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725633674_mer_cherkas_bondarenko_i_yogo_vodii_anatolii_cvetkovskii.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/09/cleaned1725632306_scheme_cherkasi.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
