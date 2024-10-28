@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2024-10-12T10:35:38+00:00</lastmod>
+		<lastmod>2024-10-28T22:30:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -1336,6 +1336,50 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1728464046_-shema_braty_oncharenko.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/chynovnyk-naczbanku-pavlo-polyarush-shho-pogrozhuvav-vijskovomu-pryhovuye-nezakonnyj-biznes-ta-dzherelo-neoficzijnyh-prybutkiv/</loc>
+		<lastmod>2024-10-28T22:29:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018275_polyar_crea_1214_260_red.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018238_pavlo_polyarush_pid_chas_konfliktu_v_gk_zarichniy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018172_budynok_pavla_polyarusha_nova_bogdanivka.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018161_alla_polyarush_maty_pavla_polyarusha.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018228_dytyachii_sadok_bambini_house.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018234_finansova_zvitnist_tov_bambini_hauz.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/chinovnik-naczbanka-pavel-polyarush-ugrozhavshij-voennomu-skryvaet-nezakonnyj-biznes-i-istochnik-neoficzialnyh-dohodov/</loc>
+		<lastmod>2024-10-28T22:30:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018275_polyar_crea_1214_260_red.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018238_pavlo_polyarush_pid_chas_konfliktu_v_gk_zarichniy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018172_budynok_pavla_polyarusha_nova_bogdanivka.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018161_alla_polyarush_maty_pavla_polyarusha.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018228_dytyachii_sadok_bambini_house.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/10/cleaned1730018234_finansova_zvitnist_tov_bambini_hauz-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
