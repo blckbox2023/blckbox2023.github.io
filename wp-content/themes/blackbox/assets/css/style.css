@@ -3360,10 +3360,10 @@ border: 1px solid transparent !important;
 
   .main-footer-bot-links {
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
   }
-
+	
   .main-footer-flex {
     padding-bottom: 30px;
     margin-bottom: 30px;
@@ -3608,6 +3608,7 @@ border: 1px solid transparent !important;
 .single-menu a:last-child {
   margin-bottom: 0px;
 }
+
 
 
 /* .main-header-home .hover-language .lang-item-ru {
