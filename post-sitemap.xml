@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2024-11-26T10:47:23+00:00</lastmod>
+		<lastmod>2024-12-09T17:42:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -1632,6 +1632,50 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/11/cleaned1732528707_budynok_ally_landar_v_seli_lisnyky.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/andrij-gudz-yak-pidleglyj-klychka-rozdaye-za-bezczin-komunalne-majno-zbagachuyuchy-svoye-otochennya-kvartyramy/</loc>
+		<lastmod>2024-12-09T17:41:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733130_kbud_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733088_budynok_andriya_gudzya_oseshina.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733123_jk_kosta_fontana_odesa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733154_vypyska_z_nakazu_pro_vzyattya_na_robotu_viktorii_feshenko.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733096_gudz-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733148_tenisni_korty_smesh_na_povitroflotskomu_prospekti.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/andrej-gudz-kak-podchinennyj-klichko-razdaet-za-besczenok-kommunalnoe-imushhestvo-obogashhaya-svoe-okruzhenie-kvartirami/</loc>
+		<lastmod>2024-12-09T17:42:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733130_kbud_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733088_budynok_andriya_gudzya_oseshina.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733123_jk_kosta_fontana_odesa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733154_vypyska_z_nakazu_pro_vzyattya_na_robotu_viktorii_feshenko.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733096_gudz-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733148_tenisni_korty_smesh_na_povitroflotskomu_prospekti.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
