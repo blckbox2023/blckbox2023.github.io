@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2024-12-09T17:42:41+00:00</lastmod>
+		<lastmod>2024-12-18T22:57:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -1676,6 +1676,68 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1733733148_tenisni_korty_smesh_na_povitroflotskomu_prospekti.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-igor-cherkaskyj-ta-jogo-rodyna-vidmyvayut-nelegalni-miljonni-prybutky/</loc>
+		<lastmod>2024-12-18T22:55:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526479_red_chercass_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526454_gotivka_druzhyny_igorya_cherkasskogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526447_chercass-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526469_natalya_cherkaska.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526464_mariya_cherkaska.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526495_yak_pidpysanyi_grigorii_cherkaskiy_getcontact.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526458_grygorii_cherkaskiy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734527541_zvyazky_fop_rodyny_igorya_cherkaskogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526475_provadjennya_shodo_skrutok.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-igor-cherkasskij-i-ego-semya-otmyvayut-nelegalnye-millionnye-dohody/</loc>
+		<lastmod>2024-12-18T22:57:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526479_red_chercass_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526454_gotivka_druzhyny_igorya_cherkasskogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526447_chercass-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526469_natalya_cherkaska.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526464_mariya_cherkaska.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526495_yak_pidpysanyi_grigorii_cherkaskiy_getcontact.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526458_grygorii_cherkaskiy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734527541_zvyazky_fop_rodyny_igorya_cherkaskogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526475_provadjennya_shodo_skrutok.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
