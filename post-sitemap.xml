@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2024-12-20T00:11:23+00:00</lastmod>
+		<lastmod>2024-12-28T14:19:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -1738,6 +1738,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734526475_provadjennya_shodo_skrutok.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-oleg-shmulyar-ta-tetyana-gryczaj-kerivnyky-departamentu-komunalnoyi-vlasnosti-kyyeva-zbagachuyutsya-na-miskomu-majni-stolyczi/</loc>
+		<lastmod>2024-12-28T14:18:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735394624_mayno_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309294_oleh_shmulyar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309301_shmylyar-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309307_tetyana_gricai.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309260_budynky_tetyany_gricay_i_svitlany_lukyanchuk_stari_petrivci.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309268_hrytsay-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309274_mariia_shmulyar.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-oleg-shmulyar-i-tatyana-griczaj-rukovoditeli-departamenta-kommunalnoj-sobstvennosti-kieva-obogashhayutsya-na-gorodskom-imushhestve-stoliczy/</loc>
+		<lastmod>2024-12-28T14:19:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735394624_mayno_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309294_oleh_shmulyar.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1734958096_chercass-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309307_tetyana_gricai.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309260_budynky_tetyany_gricay_i_svitlany_lukyanchuk_stari_petrivci.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309268_hrytsay-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/12/cleaned1735309274_mariia_shmulyar.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
