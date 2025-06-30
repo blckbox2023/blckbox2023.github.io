@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2025-06-23T09:18:21+00:00</lastmod>
+		<lastmod>2025-06-30T01:07:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -3300,8 +3300,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/yak-kryptoaferyst-oleksandr-orlovskyj-zaroblyaye-miljony-na-dovirlyvyh-ukrayinczyah/</loc>
-		<lastmod>2025-06-23T09:18:02+00:00</lastmod>
+		<loc>https://blackboxosint.com/ru/kak-kriptoaferist-aleksandr-orlovskij-zarabatyvaet-milliony-na-doverchivyh-ukrainczah/</loc>
+		<lastmod>2025-06-23T09:18:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1750623224_orlovsky_1214_260.png</image:loc>
 		</image:image>
@@ -3352,8 +3352,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/ru/kak-kriptoaferist-aleksandr-orlovskij-zarabatyvaet-milliony-na-doverchivyh-ukrainczah/</loc>
-		<lastmod>2025-06-23T09:18:21+00:00</lastmod>
+		<loc>https://blackboxosint.com/yak-kryptoaferyst-oleksandr-orlovskyj-zaroblyaye-miljony-na-dovirlyvyh-ukrayinczyah/</loc>
+		<lastmod>2025-06-24T06:57:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1750623224_orlovsky_1214_260.png</image:loc>
 		</image:image>
@@ -3401,6 +3401,44 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1750621960_stories_instagram_oleksandr_orlovskyy.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/de-zastryagly-spravy-top-korupczioneriv-tyshhenka-knyazyeva-krupy-ta-stepanova/</loc>
+		<lastmod>2025-06-30T01:07:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206474_red-light_achive_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206513_volodymyr_krupa_groshi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206110_red-krupamsek-graphic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206518_vsevolod_knyazev_khabar.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206493_red-stepanov-graphic-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/gde-zastryali-dela-top-korrupczionerov-tishhenko-knyazeva-krupy-i-stepanova/</loc>
+		<lastmod>2025-06-30T01:07:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206474_red-light_achive_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206513_volodymyr_krupa_groshi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206110_red-krupamsek-graphic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206518_vsevolod_knyazev_khabar.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/06/cleaned1751206493_red-stepanov-graphic-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
