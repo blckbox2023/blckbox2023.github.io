@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2025-07-18T14:29:28+00:00</lastmod>
+		<lastmod>2025-07-26T10:09:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -3585,6 +3585,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1752659458_stanislav_anufriev_poker.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-spravy-kolomojskogo-nasirova-grinkevycha-shapovalova-i-kulinicha-rokamy-tyagnutsya-v-sudah/</loc>
+		<lastmod>2025-07-26T10:09:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520513_light_ach_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520501_grinkevych-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520537_roman_grinkevich_v_sudi.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520541_vyacheslav_shapovalov_v_sudi.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520529_oleg_kulinich_zatrymannya_sbu.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520533_onyshenko_nasirov.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520509_ihor_kolomoyskiy_v_sudi.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-dela-kolomojskogo-nasirova-grinkevicha-shapovalova-i-kulinicha-godami-tyanutsya-v-sudah/</loc>
+		<lastmod>2025-07-26T10:09:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520513_light_ach_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520501_grinkevych-infographic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520537_roman_grinkevich_v_sudi.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520541_vyacheslav_shapovalov_v_sudi.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520529_oleg_kulinich_zatrymannya_sbu.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520533_onyshenko_nasirov.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520509_ihor_kolomoyskiy_v_sudi.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
