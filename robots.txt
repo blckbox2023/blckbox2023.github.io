@@ -1,2 +1,0 @@
-HOST: https://blackboxosint.com
-Sitemap: https://blackboxosint.com/post-sitemap.xml
