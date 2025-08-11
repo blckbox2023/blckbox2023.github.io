@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2025-07-26T10:09:34+00:00</lastmod>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -3443,6 +3443,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/07/cleaned1753520509_ihor_kolomoyskiy_v_sudi.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-dmitrij-shlimovich-v-sgovore-s-chinovnikami-ivano-frankovska-pilyat-byudzhet-na-pomoshhi-vsu/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754866589_red-shlim_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754835013_vartist_maketiv_avtomata_kalashnikova_tov_optomiks.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754835001_komentari_facebook.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754834995_getcontact_dmytro_shlimovych.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754834978_chlim-infographic_red.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754835007_tesla_model_y_2023_audi_q5_2018_shlimovich.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754834986_facebook_dmytro_shlimovich.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-dmytro-shlimovych-u-zmovi-z-chynovnykamy-ivano-frankivska-pylyayut-byudzhet-na-dopomozi-zsu/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754866589_red-shlim_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754835013_vartist_maketiv_avtomata_kalashnikova_tov_optomiks.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754835001_komentari_facebook.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754834995_getcontact_dmytro_shlimovych.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754834978_chlim-infographic_red.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754835007_tesla_model_y_2023_audi_q5_2018_shlimovich.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/08/cleaned1754834986_facebook_dmytro_shlimovich.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
