@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://blackboxosint.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://blackboxosint.com/en/tag/defender-2022-organization/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/en/tag/water-transport-support-services/</loc>
 		<lastmod>2025-02-21T17:58:30+00:00</lastmod>
 	</url>
@@ -13,8 +9,16 @@
 		<lastmod>2025-05-04T14:54:13+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/defense-of-ukraine-program/</loc>
+		<lastmod>2025-09-15T11:54:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/sluha-narodu-party/</loc>
 		<lastmod>2025-03-25T09:00:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/akhmat-club/</loc>
+		<lastmod>2025-09-16T09:08:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/andrii-hudz/</loc>
@@ -29,12 +33,20 @@
 		<lastmod>2025-03-16T22:16:09+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/anna-alkhim/</loc>
+		<lastmod>2025-09-15T11:51:46+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/antimonopoly-committee/</loc>
-		<lastmod>2025-02-21T17:59:56+00:00</lastmod>
+		<lastmod>2025-09-15T11:54:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/anzhela-voziian/</loc>
 		<lastmod>2025-02-21T17:58:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/apartment/</loc>
+		<lastmod>2025-09-16T09:33:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/aps-power-technology-gmbh/</loc>
@@ -61,6 +73,10 @@
 		<lastmod>2025-04-07T18:35:30+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/biometric-passports/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/bmw/</loc>
 		<lastmod>2025-02-11T12:32:35+00:00</lastmod>
 	</url>
@@ -73,12 +89,12 @@
 		<lastmod>2025-03-25T09:06:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/central-election-commission-of-ukraine/</loc>
-		<lastmod>2025-02-21T17:58:58+00:00</lastmod>
+		<loc>https://blackboxosint.com/en/tag/call-centers/</loc>
+		<lastmod>2025-09-15T11:52:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/central-interregional-office-of-the-state-migration-service/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
+		<loc>https://blackboxosint.com/en/tag/central-election-commission-of-ukraine/</loc>
+		<lastmod>2025-02-21T17:58:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/chevrolet-corvette/</loc>
@@ -91,6 +107,10 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/clubgg/</loc>
 		<lastmod>2025-07-18T14:29:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/clubgg-platform/</loc>
+		<lastmod>2025-09-15T11:49:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/coinsbit/</loc>
@@ -113,6 +133,10 @@
 		<lastmod>2025-03-25T09:06:23+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/corruption-in-ukraine/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/covid-19/</loc>
 		<lastmod>2025-05-04T14:55:13+00:00</lastmod>
 	</url>
@@ -121,12 +145,40 @@
 		<lastmod>2025-03-25T09:06:23+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/criminal-investigation-department-of-ukraines-national-police/</loc>
+		<lastmod>2025-09-16T09:08:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/crypto-payments/</loc>
+		<lastmod>2025-09-15T11:51:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/crypto-trading-courses/</loc>
+		<lastmod>2025-09-15T11:51:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/cryptocurrency/</loc>
 		<lastmod>2025-05-04T14:54:13+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/davyd-kaghramanyan/</loc>
+		<lastmod>2025-09-16T09:33:19+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/declarations/</loc>
 		<lastmod>2025-02-11T13:42:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/denysenko-anna/</loc>
+		<lastmod>2025-09-15T11:52:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/deputy-defense-minister/</loc>
+		<lastmod>2025-09-15T11:53:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/disability-certificates/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/discord/</loc>
@@ -137,12 +189,24 @@
 		<lastmod>2025-06-24T06:57:38+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/dji-mavic/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/dji-mavic-dron/</loc>
+		<lastmod>2025-09-15T11:54:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/dmytro-matiukha/</loc>
 		<lastmod>2025-02-11T12:33:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/dnipro-city/</loc>
-		<lastmod>2025-04-07T18:35:30+00:00</lastmod>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/dubai/</loc>
+		<lastmod>2025-09-15T11:51:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/e-dinar-coin/</loc>
@@ -151,6 +215,10 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/e-dinarcoin/</loc>
 		<lastmod>2025-04-22T09:07:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/economic-security-bureau/</loc>
+		<lastmod>2025-09-15T11:51:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/fairmont/</loc>
@@ -189,6 +257,10 @@
 		<lastmod>2025-06-24T06:57:38+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/financial-freedom-academy-ukraine/</loc>
+		<lastmod>2025-09-15T11:51:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/founder-alla-landar/</loc>
 		<lastmod>2025-05-04T14:55:13+00:00</lastmod>
 	</url>
@@ -197,8 +269,16 @@
 		<lastmod>2025-05-04T14:55:13+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/funeral-service/</loc>
+		<lastmod>2025-09-15T11:51:46+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/gambling/</loc>
 		<lastmod>2025-04-07T18:35:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/gambling-commission-ukraine/</loc>
+		<lastmod>2025-09-15T11:49:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/gambling-market/</loc>
@@ -213,6 +293,10 @@
 		<lastmod>2025-07-18T14:29:15+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/ggpoker-play/</loc>
+		<lastmod>2025-09-15T11:49:56+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/ggpokerok/</loc>
 		<lastmod>2025-07-18T14:29:15+00:00</lastmod>
 	</url>
@@ -223,6 +307,14 @@
 	<url>
 		<loc>https://blackboxosint.com/en/tag/great-residential-complex/</loc>
 		<lastmod>2025-02-21T17:58:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/hasan-askhabov/</loc>
+		<lastmod>2025-09-16T09:08:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/health-minister-maksym-stepanov/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/hedeon/</loc>
@@ -249,8 +341,20 @@
 		<lastmod>2025-03-25T09:06:23+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/ihor-hrynkevych/</loc>
+		<lastmod>2025-09-15T11:53:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/ihor-kolomoisky/</loc>
+		<lastmod>2025-09-15T11:53:35+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/ihor-kononenko/</loc>
 		<lastmod>2025-03-16T22:16:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/ikigai-group/</loc>
+		<lastmod>2025-09-15T11:52:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/ikigai-group-llc/</loc>
@@ -261,10 +365,6 @@
 		<lastmod>2025-05-12T16:59:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/inna-hudz/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/tag/instagram/</loc>
 		<lastmod>2025-06-09T19:28:49+00:00</lastmod>
 	</url>
@@ -273,12 +373,16 @@
 		<lastmod>2025-02-21T17:59:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/izumrudny-residential-complex/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
+		<loc>https://blackboxosint.com/en/tag/ivano-frankivsk-city-council/</loc>
+		<lastmod>2025-09-15T11:54:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/kalashnikov-rifle-training/</loc>
+		<lastmod>2025-09-15T11:54:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/kharkiv/</loc>
-		<lastmod>2025-05-04T14:54:13+00:00</lastmod>
+		<lastmod>2025-09-16T09:08:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/kharkiv-city/</loc>
@@ -289,16 +393,28 @@
 		<lastmod>2025-03-16T22:16:09+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/khmelnytskyi/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/klubok/</loc>
 		<lastmod>2025-07-18T14:29:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/klubok-play/</loc>
+		<lastmod>2025-09-15T11:49:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/kryvyi-rih/</loc>
 		<lastmod>2025-02-21T17:58:30+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/kucher-nataliia/</loc>
+		<lastmod>2025-09-16T09:33:19+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/kyiv/</loc>
-		<lastmod>2025-05-04T14:53:25+00:00</lastmod>
+		<lastmod>2025-09-15T11:51:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/kyiv-city-state-administration/</loc>
@@ -321,6 +437,10 @@
 		<lastmod>2025-02-11T13:42:13+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/kyryll-lakerio/</loc>
+		<lastmod>2025-09-15T11:51:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/kyrylo-nesterenko/</loc>
 		<lastmod>2025-03-25T09:00:14+00:00</lastmod>
 	</url>
@@ -341,8 +461,16 @@
 		<lastmod>2025-05-04T14:55:13+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/leonid-mytrov/</loc>
+		<lastmod>2025-09-16T09:08:08+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/letopark/</loc>
 		<lastmod>2025-01-16T00:48:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/liora-sumskyi/</loc>
+		<lastmod>2025-09-16T09:08:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/lithuania/</loc>
@@ -377,6 +505,14 @@
 		<lastmod>2025-02-21T17:58:30+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/maksym-kobylianskyi/</loc>
+		<lastmod>2025-09-15T11:51:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/mala-danylivka/</loc>
+		<lastmod>2025-09-15T11:52:09+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/mariia-shmuliar/</loc>
 		<lastmod>2025-02-11T13:42:13+00:00</lastmod>
 	</url>
@@ -409,10 +545,6 @@
 		<lastmod>2025-04-22T09:07:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/model-inna-hudz/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/en/tag/moscow-patriarchate/</loc>
 		<lastmod>2025-05-04T14:53:25+00:00</lastmod>
 	</url>
@@ -434,7 +566,11 @@
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/mykhailo-uvarov/</loc>
-		<lastmod>2025-01-16T00:48:11+00:00</lastmod>
+		<lastmod>2025-09-15T11:52:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/mykola-tyshchenko/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/mykola-udianskyi/</loc>
@@ -442,7 +578,7 @@
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/nabu/</loc>
-		<lastmod>2025-03-25T09:06:23+00:00</lastmod>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/nadiia-orekhovska/</loc>
@@ -461,6 +597,14 @@
 		<lastmod>2025-02-21T17:58:30+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/nataliia-kucher/</loc>
+		<lastmod>2025-09-16T09:33:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/national-anti-corruption-bureau-of-ukraine/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/new-lamborghini/</loc>
 		<lastmod>2025-02-21T17:58:30+00:00</lastmod>
 	</url>
@@ -475,6 +619,10 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/nsus-group/</loc>
 		<lastmod>2025-07-18T14:29:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/nsus-group-company/</loc>
+		<lastmod>2025-09-15T11:49:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/odesa-city/</loc>
@@ -493,12 +641,32 @@
 		<lastmod>2025-02-21T17:59:56+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/oleh-bakhmatiuk/</loc>
+		<lastmod>2025-09-15T11:53:35+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/oleh-didenko/</loc>
 		<lastmod>2025-02-21T17:58:58+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/oleh-kulinich/</loc>
+		<lastmod>2025-09-15T11:53:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/oleh-rachuk/</loc>
+		<lastmod>2025-09-15T11:49:56+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/oleh-shmuliar/</loc>
 		<lastmod>2025-02-11T13:42:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/oleksandr-onyshchenko/</loc>
+		<lastmod>2025-09-15T11:53:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/oleksandr-orlovskyi/</loc>
+		<lastmod>2025-09-15T11:51:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/oleksii-liubchenko/</loc>
@@ -517,6 +685,14 @@
 		<lastmod>2025-01-16T00:48:11+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/oligarch-kostyantyn-zhevago/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/optomix-llc/</loc>
+		<lastmod>2025-09-15T11:54:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/osechyna/</loc>
 		<lastmod>2025-03-16T22:16:09+00:00</lastmod>
 	</url>
@@ -531,6 +707,10 @@
 	<url>
 		<loc>https://blackboxosint.com/en/tag/pavlo-liubchenko/</loc>
 		<lastmod>2025-02-21T17:58:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/pechersk-district/</loc>
+		<lastmod>2025-09-16T09:33:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/petro-hyrych/</loc>
@@ -562,11 +742,15 @@
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/porsche-cayenne/</loc>
-		<lastmod>2025-02-21T17:58:30+00:00</lastmod>
+		<lastmod>2025-09-15T11:52:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/porsche-cayenne-uk/</loc>
 		<lastmod>2025-05-25T22:11:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/pozniakyzhylbud/</loc>
+		<lastmod>2025-09-16T09:33:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/private-enterprise-tisa/</loc>
@@ -601,16 +785,16 @@
 		<lastmod>2025-05-04T14:54:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/salikh-hasanov/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/en/tag/samopomich-party/</loc>
 		<lastmod>2025-04-07T18:35:30+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/sanahuntstore/</loc>
+		<lastmod>2025-09-15T11:51:46+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/security-service-of-ukraine/</loc>
-		<lastmod>2025-02-11T12:33:52+00:00</lastmod>
+		<lastmod>2025-09-15T11:53:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/serhii-dovhaliuk/</loc>
@@ -633,6 +817,14 @@
 		<lastmod>2025-05-04T14:54:13+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/shapovalov-dmytro/</loc>
+		<lastmod>2025-09-16T09:08:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/shlimovych/</loc>
+		<lastmod>2025-09-15T11:54:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/sofiivska-borshchahivka/</loc>
 		<lastmod>2025-03-25T09:00:14+00:00</lastmod>
 	</url>
@@ -641,12 +833,16 @@
 		<lastmod>2025-02-11T13:42:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/state-migration-service-of-ukraine/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
+		<loc>https://blackboxosint.com/en/tag/state-bureau-of-investigation/</loc>
+		<lastmod>2025-09-15T11:53:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/supply-food/</loc>
 		<lastmod>2025-02-21T17:59:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/supreme-court-chief-justice/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/sviatoslav-oliinyk/</loc>
@@ -661,8 +857,16 @@
 		<lastmod>2025-05-19T06:51:33+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/taryan-group-kyiv/</loc>
+		<lastmod>2025-09-16T09:33:19+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/taryan-towers/</loc>
 		<lastmod>2025-05-19T06:52:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/taxes/</loc>
+		<lastmod>2025-09-15T11:49:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/teka-group-foundation/</loc>
@@ -673,12 +877,12 @@
 		<lastmod>2025-02-11T13:42:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/the-krakiv-cinema/</loc>
-		<lastmod>2025-02-11T13:42:13+00:00</lastmod>
+		<loc>https://blackboxosint.com/en/tag/tetiana-krupa/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/the-jack-house-residential-complex/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
+		<loc>https://blackboxosint.com/en/tag/the-krakiv-cinema/</loc>
+		<lastmod>2025-02-11T13:42:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/the-kosta-fontana-residential-complex/</loc>
@@ -705,12 +909,12 @@
 		<lastmod>2025-02-21T17:58:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/ukraine/</loc>
-		<lastmod>2025-05-04T14:54:13+00:00</lastmod>
+		<loc>https://blackboxosint.com/en/tag/udianskyi-mykola/</loc>
+		<lastmod>2025-09-16T09:08:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/ukraines-security-service/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
+		<loc>https://blackboxosint.com/en/tag/ukraine/</loc>
+		<lastmod>2025-05-04T14:54:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/ukraines-state-financial-monitoring-service/</loc>
@@ -725,10 +929,6 @@
 		<lastmod>2025-05-04T14:55:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/en/tag/ukrainian-passport/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/en/tag/ukrzaliznytsia/</loc>
 		<lastmod>2025-02-21T17:59:56+00:00</lastmod>
 	</url>
@@ -739,10 +939,6 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/unit-home/</loc>
 		<lastmod>2025-05-19T06:48:00+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://blackboxosint.com/en/tag/viacheslav-huz/</loc>
-		<lastmod>2025-02-21T18:01:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/vadym-yermolaiev/</loc>
@@ -765,6 +961,14 @@
 		<lastmod>2025-02-21T17:58:30+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/village-of-hatne/</loc>
+		<lastmod>2025-09-15T11:51:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/vitalii-ded-usd/</loc>
+		<lastmod>2025-09-15T11:51:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/vitaliy-klychko/</loc>
 		<lastmod>2025-03-16T22:16:09+00:00</lastmod>
 	</url>
@@ -775,6 +979,10 @@
 	<url>
 		<loc>https://blackboxosint.com/en/tag/volodymyr-zelenskyy/</loc>
 		<lastmod>2025-02-11T12:33:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/vsevolod-kniaziev/</loc>
+		<lastmod>2025-09-15T11:50:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/weway/</loc>
@@ -789,16 +997,36 @@
 		<lastmod>2025-03-18T09:49:32+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/en/tag/yelyzaveta-filipovska/</loc>
+		<lastmod>2025-09-16T09:33:19+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/en/tag/yevhen-orlov/</loc>
 		<lastmod>2025-05-12T16:59:39+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/yevhen-trusov/</loc>
-		<lastmod>2025-01-16T00:48:11+00:00</lastmod>
+		<lastmod>2025-09-15T11:52:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/yevheniia-bukhalska/</loc>
+		<lastmod>2025-09-15T11:51:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/yuliia-makohon/</loc>
+		<lastmod>2025-09-15T11:51:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/yuliia-ponomarenko/</loc>
+		<lastmod>2025-09-15T11:51:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/yuliia-sosedka/</loc>
 		<lastmod>2025-04-07T18:35:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/en/tag/yuliia-trusova/</loc>
+		<lastmod>2025-09-15T11:52:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/en/tag/yurii-kharon/</loc>
@@ -815,6 +1043,14 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/avstriya/</loc>
 		<lastmod>2025-03-25T16:08:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/avtomat-kalashnikova/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/alevtyna-reva/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/aleksandr-galkin-tyulya/</loc>
@@ -855,6 +1091,10 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/aleksandra-karmaza/</loc>
 		<lastmod>2025-01-16T00:46:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/aleksej-reva/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/alla-landar/</loc>
@@ -901,6 +1141,10 @@
 		<lastmod>2025-05-19T06:51:33+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/andrej-rymar/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/andrej-traczevskij/</loc>
 		<lastmod>2024-10-28T22:30:58+00:00</lastmod>
 	</url>
@@ -923,6 +1167,10 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/andrij-ryba/</loc>
 		<lastmod>2024-11-18T00:28:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/andrij-rymar/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/andrij-traczevskyj/</loc>
@@ -949,12 +1197,12 @@
 		<lastmod>2025-06-09T19:29:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/ru/tag/anna-denisenko/</loc>
-		<lastmod>2025-05-25T22:11:19+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/tag/anna-denysenko/</loc>
 		<lastmod>2025-05-25T22:11:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/anna-denisenko/</loc>
+		<lastmod>2025-05-25T22:11:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/anna-dubchak/</loc>
@@ -993,8 +1241,20 @@
 		<lastmod>2024-07-16T23:35:11+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/artemivskyj-hlibokombinat/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/at-akb-konkord/</loc>
 		<lastmod>2025-03-25T16:08:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/atp-11406/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/ahmetov-rinat/</loc>
+		<lastmod>2025-08-28T12:59:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/bagirova/</loc>
@@ -1015,6 +1275,10 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/bahmatyuk-oleg/</loc>
 		<lastmod>2025-07-26T10:09:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/bahmut/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/bio-enerdzhi-dnepr/</loc>
@@ -1097,8 +1361,20 @@
 		<lastmod>2025-03-24T23:12:51+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/byudzhet-bahmuta/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/vyacheslav-mishalov/</loc>
 		<lastmod>2025-03-25T16:08:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/vadym-bojchenko/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/vadim-bojchenko/</loc>
+		<lastmod>2025-08-28T12:59:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/vadym-kazarczev/</loc>
@@ -1127,6 +1403,10 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/vera-kukol/</loc>
 		<lastmod>2024-10-12T10:35:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/vera-yaremko/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/verhovnaya-rada/</loc>
@@ -1181,6 +1461,10 @@
 		<lastmod>2024-12-09T17:41:47+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/vira-yaremko/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/vitalij-klychko/</loc>
 		<lastmod>2024-12-28T14:18:14+00:00</lastmod>
 	</url>
@@ -1217,10 +1501,6 @@
 		<lastmod>2024-11-26T10:45:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/vo-batkivshhyna/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/tag/volodymyr-klychko/</loc>
 		<lastmod>2024-12-28T14:18:14+00:00</lastmod>
 	</url>
@@ -1231,10 +1511,6 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/volodymyr-petrov/</loc>
 		<lastmod>2024-03-28T09:49:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://blackboxosint.com/tag/volodymyr-starikov/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/volodymyr-chupa/</loc>
@@ -1253,12 +1529,16 @@
 		<lastmod>2024-11-26T01:26:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/vyacheslav-guz/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/tag/vyacheslav-shapovalov/</loc>
 		<lastmod>2025-07-26T10:09:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/galyna-bojchenko/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/galina-bojchenko/</loc>
+		<lastmod>2025-08-28T12:59:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/garazh/</loc>
@@ -1281,8 +1561,8 @@
 		<lastmod>2025-06-30T01:07:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/ru/tag/gms-ukrainy/</loc>
-		<lastmod>2024-11-26T01:36:50+00:00</lastmod>
+		<loc>https://blackboxosint.com/ru/tag/gorod-bahmut/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/gorod-berestin/</loc>
@@ -1299,10 +1579,6 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/goslesagentstvo/</loc>
 		<lastmod>2024-08-08T00:35:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://blackboxosint.com/ru/tag/gosudarstvennaya-migraczionnaya-sluzhba/</loc>
-		<lastmod>2024-11-26T01:36:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/gosudarstvennoe-agentstvo-razvitiya-turizma/</loc>
@@ -1373,12 +1649,20 @@
 		<lastmod>2025-07-26T10:09:17+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/demi-zbut/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/departament-kommunalnoj-sobstvennosti-kieva/</loc>
 		<lastmod>2024-12-28T14:19:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/departament-komunalnoyi-vlasnosti-kyyeva/</loc>
 		<lastmod>2024-12-28T14:18:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/departament-osvity-i-nauky/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/deputat-viktor-myalik/</loc>
@@ -1397,12 +1681,12 @@
 		<lastmod>2025-02-11T12:33:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/derzhavna-migraczijna-sluzhba/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/tag/derzhavne-agentstvo-z-rozvytku-turyzmu/</loc>
 		<lastmod>2025-01-16T00:43:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/derzhavni-zakupivli/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/derzhlisagentstvo/</loc>
@@ -1437,16 +1721,8 @@
 		<lastmod>2024-09-08T22:14:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/did-hasan/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/ru/tag/dmitrij-aleksandrenko-kaban/</loc>
 		<lastmod>2025-05-13T20:58:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://blackboxosint.com/ru/tag/dmitrij-lemesh/</loc>
-		<lastmod>2024-11-26T01:36:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/dmitrij-matyuha/</loc>
@@ -1469,8 +1745,8 @@
 		<lastmod>2025-05-13T20:58:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/dmytro-lemesh/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
+		<loc>https://blackboxosint.com/ru/tag/dmitrij-shlimovich/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/dmytro-matyuh/</loc>
@@ -1483,6 +1759,10 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/dmytro-oleksandrenko/</loc>
 		<lastmod>2025-05-13T20:57:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/dmytro-reva/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/dmytro-tishko/</loc>
@@ -1501,8 +1781,8 @@
 		<lastmod>2025-05-13T20:57:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/dms/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
+		<loc>https://blackboxosint.com/tag/dmytro-shlimovych/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/dneprogorstroj/</loc>
@@ -1521,8 +1801,16 @@
 		<lastmod>2024-11-26T01:25:15+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/dnr/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/doneczkaya-ova/</loc>
 		<lastmod>2024-10-12T10:35:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/doneczka-oblast/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/doneczka-ova/</loc>
@@ -1531,6 +1819,10 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/dorstroj/</loc>
 		<lastmod>2024-09-08T22:14:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/drony/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/dubayi/</loc>
@@ -1649,12 +1941,20 @@
 		<lastmod>2025-03-18T09:49:32+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/zhiloj-kompleks-park-avenyu/</loc>
+		<lastmod>2025-08-28T12:59:36+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/zhile-v-kieve/</loc>
 		<lastmod>2025-05-19T06:51:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/zhytlovyj-kompleks/</loc>
 		<lastmod>2025-05-19T06:48:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/zhk-lypska-vezha/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/zhk-great/</loc>
@@ -1665,10 +1965,6 @@
 		<lastmod>2025-01-16T00:46:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/zhk-jack-house/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/tag/zhk-okland/</loc>
 		<lastmod>2025-01-16T00:43:46+00:00</lastmod>
 	</url>
@@ -1677,12 +1973,16 @@
 		<lastmod>2025-05-19T06:51:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/zhk-izumrudnyj/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
+		<loc>https://blackboxosint.com/tag/zhk-venecziya/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/zhk-lvivskyj-zatyshok/</loc>
 		<lastmod>2025-03-18T09:50:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/zhk-park-avenyu/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/za-majbutnye/</loc>
@@ -1705,8 +2005,8 @@
 		<lastmod>2025-01-16T00:46:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/zahysnyk-2022/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
+		<loc>https://blackboxosint.com/ru/tag/zashhita-ukrainy/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/zashhitnik-azovstali/</loc>
@@ -1722,11 +2022,15 @@
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/zsu/</loc>
-		<lastmod>2025-07-26T10:09:17+00:00</lastmod>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/ivan-gerasimenko/</loc>
 		<lastmod>2025-03-18T09:49:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/ivano-frankovsk/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/igornyj-biznes/</loc>
@@ -1781,12 +2085,20 @@
 		<lastmod>2024-12-09T17:42:41+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/ispolkom-ivano-frankovskogo-gorodskogo-soveta/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/isu-loers/</loc>
 		<lastmod>2025-03-18T09:49:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/ivan-bryksin/</loc>
 		<lastmod>2025-07-18T14:29:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/ivano-frankivsk/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/igor-grynkevych/</loc>
@@ -1823,10 +2135,6 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/inga-nesterenko/</loc>
 		<lastmod>2025-03-18T09:50:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://blackboxosint.com/tag/inna-gudz/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/iryna-alhimova/</loc>
@@ -1995,10 +2303,6 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/korrupcziya-v-armii/</loc>
 		<lastmod>2025-07-26T10:09:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://blackboxosint.com/tag/korupcziya-v-dms/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/kostyantyn-zhevago/</loc>
@@ -2241,8 +2545,16 @@
 		<lastmod>2025-01-16T00:43:46+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/maryna-reva/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/mariya-zolkina/</loc>
 		<lastmod>2024-11-04T21:14:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/mariupol/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/mariya-shmulyar/</loc>
@@ -2267,6 +2579,10 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/metadon/</loc>
 		<lastmod>2025-05-19T06:46:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/metinvest/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/mykola-alhimov/</loc>
@@ -2345,6 +2661,10 @@
 		<lastmod>2025-06-09T19:28:49+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/miskyj-golova/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/monako/</loc>
 		<lastmod>2025-04-22T09:07:18+00:00</lastmod>
 	</url>
@@ -2357,8 +2677,16 @@
 		<lastmod>2025-06-30T01:07:29+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/mer-bahmuta/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/mer-dnepra/</loc>
 		<lastmod>2024-11-26T01:26:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/mer-mariupolya/</loc>
+		<lastmod>2025-08-28T12:59:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/mer-cherkass/</loc>
@@ -2489,6 +2817,10 @@
 		<lastmod>2025-02-11T12:33:12+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/okkupacziya/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/oksana-berezhnaya/</loc>
 		<lastmod>2025-05-19T06:46:48+00:00</lastmod>
 	</url>
@@ -2499,6 +2831,10 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/oksana-petlovana/</loc>
 		<lastmod>2025-05-19T06:52:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/okupacziya/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/oleg-bahmatyuk/</loc>
@@ -2515,6 +2851,10 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/oleg-lyashko/</loc>
 		<lastmod>2025-02-11T12:32:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/oleg-orel/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/oleg-rachuk/</loc>
@@ -2569,8 +2909,16 @@
 		<lastmod>2025-01-16T00:43:46+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/oleksij-reva/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/olena-bondarenko/</loc>
 		<lastmod>2024-09-08T22:14:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/olena-reva/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/olena-sosyedka/</loc>
@@ -2625,8 +2973,16 @@
 		<lastmod>2024-11-26T01:26:14+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/ooo-bob/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/ooo-bukmekerskaya-kompaniya-favbet/</loc>
 		<lastmod>2025-01-30T09:29:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/ooo-grafikaprom/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/ooo-zhok/</loc>
@@ -2643,6 +2999,10 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/ooo-nsus-yua/</loc>
 		<lastmod>2025-07-18T14:29:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/ooo-optomiks/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/ooo-ofis-czentr-2/</loc>
@@ -2669,6 +3029,10 @@
 		<lastmod>2025-05-13T20:58:12+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/opozyczijnyj-blok/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/oseshhina/</loc>
 		<lastmod>2024-12-09T17:42:41+00:00</lastmod>
 	</url>
@@ -2693,10 +3057,6 @@
 		<lastmod>2025-05-13T20:58:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/ru/tag/pavel-fuks/</loc>
-		<lastmod>2024-11-26T01:36:50+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/tag/pavlo-kyrylenko/</loc>
 		<lastmod>2024-10-12T10:34:28+00:00</lastmod>
 	</url>
@@ -2707,10 +3067,6 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/pavlo-polyarush/</loc>
 		<lastmod>2024-10-28T22:29:54+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://blackboxosint.com/tag/pavlo-fuks/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/partiya-propozicziya/</loc>
@@ -2725,16 +3081,20 @@
 		<lastmod>2025-04-07T18:34:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/pasport-gromadyanyna-ukrayiny/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/ru/tag/pasha-amerika/</loc>
 		<lastmod>2025-05-13T20:58:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/pgt-malaya-danilovka/</loc>
 		<lastmod>2025-05-25T22:11:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/pereselenczi/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/pereselenczy/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/petr-velikij/</loc>
@@ -2853,6 +3213,22 @@
 		<lastmod>2025-07-18T14:29:28+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/reva-alevtina/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/reva-dmitrij/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/reva-elena/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/reva-marina/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/revolyucziya-dostoinstva/</loc>
 		<lastmod>2025-04-07T18:33:51+00:00</lastmod>
 	</url>
@@ -2871,6 +3247,10 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/ritualnye-uslugi/</loc>
 		<lastmod>2024-11-26T10:45:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/rinat-ahmetov/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/roman-grynkevych/</loc>
@@ -3069,6 +3449,10 @@
 		<lastmod>2025-01-16T00:43:46+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/sergij-rymar/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/sergij-hantil/</loc>
 		<lastmod>2024-11-04T20:42:11+00:00</lastmod>
 	</url>
@@ -3165,6 +3549,10 @@
 		<lastmod>2025-06-23T09:18:21+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/taurus-faktum-lajn/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/tetyana-gryczaj/</loc>
 		<lastmod>2024-12-28T14:18:14+00:00</lastmod>
 	</url>
@@ -3179,10 +3567,6 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/tetyana-orlovska/</loc>
 		<lastmod>2025-06-24T06:57:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://blackboxosint.com/tag/tetyana-pahomova/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/tov-metaklinika/</loc>
@@ -3221,6 +3605,10 @@
 		<lastmod>2025-05-25T22:11:34+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/tov-bob/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/tov-bukmekerska-kompaniya-favbet/</loc>
 		<lastmod>2025-01-30T09:25:46+00:00</lastmod>
 	</url>
@@ -3251,6 +3639,10 @@
 	<url>
 		<loc>https://blackboxosint.com/tag/tov-nsus-yua/</loc>
 		<lastmod>2025-07-18T14:29:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/tov-optomiks/</loc>
+		<lastmod>2025-08-11T16:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/tov-ofis-czentr-2/</loc>
@@ -3369,8 +3761,16 @@
 		<lastmod>2025-05-13T20:58:12+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/tag/hlibokombinat/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/hmelniczkij/</loc>
 		<lastmod>2025-06-30T01:07:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/holding-metinvest/</loc>
+		<lastmod>2025-08-28T12:59:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/hrystyna-goncharenko/</loc>
@@ -3429,6 +3829,10 @@
 		<lastmod>2024-10-12T10:35:38+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/chp-taurus-faktum-lajn/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/shapovalov-vyacheslav/</loc>
 		<lastmod>2025-07-26T10:09:34+00:00</lastmod>
 	</url>
@@ -3439,6 +3843,10 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/shmulyar/</loc>
 		<lastmod>2024-12-28T14:19:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/energoatom/</loc>
+		<lastmod>2025-08-11T16:46:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/yuliya-ponomarenko/</loc>
@@ -3453,12 +3861,12 @@
 		<lastmod>2024-12-09T17:41:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://blackboxosint.com/tag/yuliya-klyuchko/</loc>
-		<lastmod>2024-11-26T01:37:50+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://blackboxosint.com/tag/yuliya-makogon/</loc>
 		<lastmod>2025-06-09T19:28:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/yuliya-reva/</loc>
+		<lastmod>2025-09-09T09:22:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/yuliya-sosedka/</loc>
