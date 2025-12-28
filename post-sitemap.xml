@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2025-12-21T21:24:44+00:00</lastmod>
+		<lastmod>2025-12-27T09:30:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -4355,6 +4355,74 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766338790_tov_taimkol_budynok_saksaganskogo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-rosijskyj-biznesmen-kostyantyn-grygoryshyn-zaroblyaye-miljony-dolariv-na-postachanni-ukrayinczyam-elektroenergiyi/</loc>
+		<lastmod>2025-12-27T09:18:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826191_grigoryshyn-1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826408_kostyantyn_grygorishyn.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826221_tov_enera.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826236_tov_enera_vinnytsya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826232_tov_enera_vinniytsya.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826217_tendery_enera_vinnytsya.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826228_tov_enera_sumy.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826225_tov_enera_chernihiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826211_scheme-grigoryshyn.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826186_evgeniya_grigorishina_ros.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-rossijskij-biznesmen-konstantin-grigorishin-zarabatyvaet-milliony-dollarov-na-postavke-ukrainczam-elektroenergii/</loc>
+		<lastmod>2025-12-27T09:30:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826191_grigoryshyn-1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826408_kostyantyn_grygorishyn.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826221_tov_enera.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826236_tov_enera_vinnytsya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826232_tov_enera_vinniytsya.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826217_tendery_enera_vinnytsya.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826228_tov_enera_sumy.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826225_tov_enera_chernihiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826211_scheme-grigoryshyn.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826186_evgeniya_grigorishina_ros.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
