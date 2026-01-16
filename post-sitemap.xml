@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2025-12-27T09:30:01+00:00</lastmod>
+		<lastmod>2026-01-15T16:50:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -4423,6 +4423,68 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826186_evgeniya_grigorishina_ros.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/sergij-kurchenko-yak-gamanecz-yanukovycha-shho-vtik-v-rf-zberigaye-svij-vplyv-v-ukrayini/</loc>
+		<lastmod>2026-01-15T14:14:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483972_2-kur-1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483948_serhii_kurchenko.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483925_budynok_kurchenko_moskva.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483960_severion_dangadze_saakashvili.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483967_tendery_tov_ukrtaku.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483943_oleksandr_garkusha_getcontact.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483937_illya_savvin.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483953_serhii_rossada_getcontact.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483931_graphic_kurchenko.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/sergej-kurchenko-kak-koshelyok-yanukovicha-sbezhavshij-v-rf-sohranyaet-svoyo-vliyanie-v-ukraine/</loc>
+		<lastmod>2026-01-15T16:50:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483972_2-kur-1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483948_serhii_kurchenko.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483925_budynok_kurchenko_moskva.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483960_severion_dangadze_saakashvili.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483967_tendery_tov_ukrtaku.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483943_oleksandr_garkusha_getcontact.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483937_illya_savvin.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483953_serhii_rossada_getcontact.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483931_graphic_kurchenko.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
