@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2026-01-15T16:50:42+00:00</lastmod>
+		<lastmod>2026-01-31T10:15:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -4485,6 +4485,74 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1768483931_graphic_kurchenko.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-pavlo-fuks-nagrabuvavshy-v-ukrayini-milyardy-zalyshyvsya-nepokaranym/</loc>
+		<lastmod>2026-01-31T09:46:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851453_fuks_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851467_pavlo_fuks.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851494_andrii_volkov_investohills.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851484_jk_oazis_fuksa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851536_budynok_oleksandr_shnir_gorenychi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851544_oleksandra_petrova.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851480_mayetok_pavla_fuksa_kozyn.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851463_sofiyska_brama_kyiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851437_fuks-graphic-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851457_tov_sens_d.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-pavel-fuks-nagrabiv-v-ukraine-milliardy-ostalsya-beznakazannym/</loc>
+		<lastmod>2026-01-31T10:15:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851453_fuks_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851467_pavlo_fuks.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851494_andrii_volkov_investohills.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851484_jk_oazis_fuksa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851536_budynok_oleksandr_shnir_gorenychi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851544_oleksandra_petrova.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851480_mayetok_pavla_fuksa_kozyn.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851463_sofiyska_brama_kyiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851437_fuks-graphic-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851457_tov_sens_d.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
