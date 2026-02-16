@@ -1,12 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://blackboxosint.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://blackboxosint.com/tag/rosiya/</loc>
+		<lastmod>2026-01-15T14:14:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/rossijskaya-pravoslavnaya-czerkov/</loc>
+		<lastmod>2025-04-07T18:33:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/rossiya/</loc>
+		<lastmod>2026-01-15T16:50:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/rpcz/</loc>
+		<lastmod>2025-11-28T23:52:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/rublevka/</loc>
+		<lastmod>2026-01-15T16:50:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/ruslan-averin/</loc>
+		<lastmod>2025-05-19T06:48:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/ruslan-demchak/</loc>
+		<lastmod>2026-02-15T20:00:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/ruslan-yereshhenko/</loc>
+		<lastmod>2025-02-11T12:32:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/ruslan-kramarenko/</loc>
+		<lastmod>2025-10-12T10:32:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/ruslan-lementar/</loc>
+		<lastmod>2024-09-08T22:14:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/russkaya-pravoslavnaya-czerkov/</loc>
+		<lastmod>2025-11-28T23:43:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/rustam-kerimov/</loc>
+		<lastmod>2025-04-22T09:07:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/rybalskij-ostrov/</loc>
+		<lastmod>2026-01-31T10:15:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/saakashvili/</loc>
+		<lastmod>2026-01-15T14:14:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/sabina-musina/</loc>
+		<lastmod>2025-09-29T17:03:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/savvin-ilya/</loc>
+		<lastmod>2026-01-15T16:50:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/salon-krasy/</loc>
+		<lastmod>2025-09-29T17:03:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/salon-krasoty-kiev/</loc>
+		<lastmod>2025-09-29T07:39:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/sankczii/</loc>
+		<lastmod>2025-12-27T09:30:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/sankcziyi/</loc>
+		<lastmod>2025-12-27T09:18:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/sankcziyi-zhevago/</loc>
+		<lastmod>2025-12-21T21:24:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/sbu/</loc>
+		<lastmod>2025-11-09T11:42:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/svarog-esset-menedzhment/</loc>
+		<lastmod>2025-12-27T09:18:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/svetlana-gubar/</loc>
+		<lastmod>2025-05-19T06:51:33+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/ru/tag/svetlana-stepanchuk/</loc>
 		<lastmod>2024-12-28T14:19:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/svitlana-gubar/</loc>
 		<lastmod>2025-05-19T06:52:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/svitlana-demchak/</loc>
+		<lastmod>2026-02-15T20:00:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/svitlana-stepanchuk/</loc>
@@ -675,6 +775,10 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/chernogoriya/</loc>
 		<lastmod>2025-05-13T20:58:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/chernoshov-aleksej/</loc>
+		<lastmod>2026-02-15T19:59:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/chechnya/</loc>

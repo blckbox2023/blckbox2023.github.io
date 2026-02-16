@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2026-01-31T10:15:53+00:00</lastmod>
+		<lastmod>2026-02-15T20:00:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -4553,6 +4553,86 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/01/cleaned1769851457_tov_sens_d.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-nardep-ot-bpp-ruslan-demchak-otmyl-bolee-milliarda-griven-korrupczionnyh-deneg/</loc>
+		<lastmod>2026-02-15T19:59:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771184976_demchyak_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169828_ruslan_demchak_blok_petra_poroshenko.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169278_budynok_ruslana_demchaka_krukivshina.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169818_oleksandr_feldman_z_synom.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169296_demchyak-graphic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169728_kateryna_demchak.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169851_svitlana_demchak.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169699_florence_nightingale_taste_of_lifetime.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169704_google_review_-florence_nightingale.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169841_selling_florence_-nightingale.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169860_taste_of_lifetime_ltd_ubg_coproration.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169684_dmytro_demchak.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-nardep-vid-bpp-ruslan-demchak-vidmyv-bilshe-milyarda-gryven-korupczijnyh-groshej/</loc>
+		<lastmod>2026-02-15T20:00:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771184976_demchyak_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169828_ruslan_demchak_blok_petra_poroshenko.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169278_budynok_ruslana_demchaka_krukivshina.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169818_oleksandr_feldman_z_synom.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169296_demchyak-graphic.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169728_kateryna_demchak.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169851_svitlana_demchak.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169699_florence_nightingale_taste_of_lifetime.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169704_google_review_-florence_nightingale.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169841_selling_florence_-nightingale.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169860_taste_of_lifetime_ltd_ubg_coproration.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169684_dmytro_demchak.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
