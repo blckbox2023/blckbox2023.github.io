@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2026-02-15T20:00:05+00:00</lastmod>
+		<lastmod>2026-02-28T09:24:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -4565,6 +4565,74 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1771169684_dmytro_demchak.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-korrupczioner-nikolaj-zlochevskij-sbezhal-iz-ukrainy-no-prodolzhaet-vykachivat-ee-nedra/</loc>
+		<lastmod>2026-02-28T09:12:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266434_zloch_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266412_viktor_yanukovich_mykola_zlochevskyi.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266417_vladyslav_zlochevskyi_kateryna_samarska.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266397_pleminnyk_mykoly_zlochevskogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266384_anton_fistal_anna_szlochevska.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266423_zamok_castel_falfi_toskana.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266401_tov_esko_pivnich.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266406_tov_systemoilinzhenering.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266542_zloch-scheme_red_.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266392_khabar_zlochevskyi.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/yak-korupczioner-mykola-zlochevskyj-vtik-z-ukrayiny-ale-prodovzhuye-vykachuvaty-yiyi-nadra/</loc>
+		<lastmod>2026-02-28T09:24:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266434_zloch_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266412_viktor_yanukovich_mykola_zlochevskyi.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266417_vladyslav_zlochevskyi_kateryna_samarska.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266397_pleminnyk_mykoly_zlochevskogo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266384_anton_fistal_anna_szlochevska.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266423_zamok_castel_falfi_toskana.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266401_tov_esko_pivnich.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266406_tov_systemoilinzhenering.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266542_zloch-scheme_red_.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266392_khabar_zlochevskyi.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
