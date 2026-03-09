@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
-		<lastmod>2026-02-28T09:24:08+00:00</lastmod>
+		<lastmod>2026-03-08T12:57:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -4633,6 +4633,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/02/cleaned1772266392_khabar_zlochevskyi.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/blackbox-osint-rozdaye-chorni-mitky-hto-z-figurantiv-nashyh-guchnyh-rozsliduvan-vzhe-pokaranyj/</loc>
+		<lastmod>2026-03-08T12:42:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972613_label_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826211_scheme-grigoryshyn.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972653_zatrymannya_yuriya_bolokhovcya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972648_zastava_bolokhovec.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972606_aresht_petro_olenych.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972641_volodymyr_kudrytskyi_v_sudi.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/11/perepyska_z_antikor_z_pryvodu_vydalennya_statti.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/blackbox-osint-razdaet-chernye-metki-kto-iz-figurantov-nashih-gromkih-rassledovanij-uzhe-nakazan/</loc>
+		<lastmod>2026-03-08T12:57:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972613_label_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2025/12/cleaned1766826211_scheme-grigoryshyn.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972653_zatrymannya_yuriya_bolokhovcya.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972648_zastava_bolokhovec.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972606_aresht_petro_olenych.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1772972641_volodymyr_kudrytskyi_v_sudi.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2024/11/perepyska_z_antikor_z_pryvodu_vydalennya_statti.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

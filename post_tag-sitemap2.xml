@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://blackboxosint.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://blackboxosint.com/ru/tag/reva-dmitrij/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/reva-elena/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/reva-marina/</loc>
+		<lastmod>2025-09-09T09:21:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/revolyucziya-dostoinstva/</loc>
+		<lastmod>2025-04-07T18:33:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/reklama/</loc>
+		<lastmod>2025-06-09T19:29:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/reklamnoe-agentstvo-komyuniti-klaud-kiper/</loc>
+		<lastmod>2025-05-25T22:11:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/remont-dorig/</loc>
+		<lastmod>2025-10-12T10:32:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/rytualni-poslugy/</loc>
+		<lastmod>2024-11-26T10:47:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/tag/ritualnye-uslugi/</loc>
+		<lastmod>2024-11-26T10:45:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/rinat-ahmetov/</loc>
+		<lastmod>2025-08-28T13:10:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/roman-grynkevych/</loc>
+		<lastmod>2025-07-26T10:09:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/roman-nasirov/</loc>
+		<lastmod>2025-07-26T10:09:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/rosijska-mova/</loc>
+		<lastmod>2025-06-09T19:28:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/rosijskyj-agent/</loc>
+		<lastmod>2025-11-09T11:42:16+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://blackboxosint.com/tag/rosiya/</loc>
 		<lastmod>2026-01-15T14:14:14+00:00</lastmod>
 	</url>
@@ -59,6 +115,10 @@
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/savvin-ilya/</loc>
 		<lastmod>2026-01-15T16:50:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/tag/sajt-antykor/</loc>
+		<lastmod>2026-03-08T12:42:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/salon-krasy/</loc>
@@ -478,7 +538,7 @@
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/tov-enera/</loc>
-		<lastmod>2025-12-27T09:18:15+00:00</lastmod>
+		<lastmod>2026-03-08T12:42:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/tov-enera-vinnyczya/</loc>
@@ -570,7 +630,7 @@
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/ukrenergo/</loc>
-		<lastmod>2024-04-10T08:32:32+00:00</lastmod>
+		<lastmod>2026-03-08T12:42:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/ru/tag/ukrenergo-ru/</loc>
@@ -854,7 +914,7 @@
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/yurij-bolohovecz/</loc>
-		<lastmod>2024-06-18T20:38:11+00:00</lastmod>
+		<lastmod>2026-03-08T12:42:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/tag/yurij-gorban/</loc>
