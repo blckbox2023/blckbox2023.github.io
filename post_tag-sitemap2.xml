@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://blackboxosint.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-<<<<<<< Updated upstream
-=======
 		<loc>https://blackboxosint.com/tag/pechersk/</loc>
 		<lastmod>2025-05-19T06:52:48+00:00</lastmod>
 	</url>
@@ -63,7 +61,6 @@
 		<lastmod>2025-11-28T23:52:40+00:00</lastmod>
 	</url>
 	<url>
->>>>>>> Stashed changes
 		<loc>https://blackboxosint.com/tag/pohoronne-byuro/</loc>
 		<lastmod>2024-11-26T10:47:23+00:00</lastmod>
 	</url>
