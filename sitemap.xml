@@ -2,7 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://blackboxosint.com/post-sitemap.xml</loc>
+<<<<<<< Updated upstream
 		<lastmod>2026-03-25T09:59:04+00:00</lastmod>
+=======
+		<lastmod>2026-04-13T05:46:50+00:00</lastmod>
+>>>>>>> Stashed changes
 	</sitemap>
 	<sitemap>
 		<loc>https://blackboxosint.com/page-sitemap.xml</loc>
@@ -10,6 +14,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://blackboxosint.com/category-sitemap.xml</loc>
+<<<<<<< Updated upstream
 		<lastmod>2026-03-25T09:59:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
@@ -19,6 +24,17 @@
 	<sitemap>
 		<loc>https://blackboxosint.com/post_tag-sitemap2.xml</loc>
 		<lastmod>2026-03-25T09:59:04+00:00</lastmod>
+=======
+		<lastmod>2026-04-13T05:46:50+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://blackboxosint.com/post_tag-sitemap.xml</loc>
+		<lastmod>2026-04-13T05:46:50+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://blackboxosint.com/post_tag-sitemap2.xml</loc>
+		<lastmod>2026-04-13T05:46:50+00:00</lastmod>
+>>>>>>> Stashed changes
 	</sitemap>
 	<sitemap>
 		<loc>https://blackboxosint.com/author-sitemap.xml</loc>

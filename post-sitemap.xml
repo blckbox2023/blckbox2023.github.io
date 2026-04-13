@@ -2,7 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://blackboxosint.com/publichni-rozsliduvannya/</loc>
+<<<<<<< Updated upstream
 		<lastmod>2026-03-25T09:59:04+00:00</lastmod>
+=======
+		<lastmod>2026-04-13T05:46:50+00:00</lastmod>
+>>>>>>> Stashed changes
 	</url>
 	<url>
 		<loc>https://blackboxosint.com/chomu-blackbox-osint-zajmayetsya-publichnimi-rozsliduvannyami-okrim-roboti-z-privatnimi-zamovlennyami/</loc>
@@ -4753,5 +4757,82 @@
 			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/03/cleaned1774430692_nataliya_sheykhetova.png</image:loc>
 		</image:image>
 	</url>
+<<<<<<< Updated upstream
+=======
+	<url>
+		<loc>https://blackboxosint.com/yak-nardep-stepan-ivahiv-pislya-pochatku-vijny-vyviv-miljony-dolariv-z-ukrayinskoyi-ekonomiky/</loc>
+		<lastmod>2026-04-13T05:31:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056686_ivahiv_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056747_vidviduvamist_stepana_ivakhiva.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056717_rada_stepan_ivakhiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056722_struktura_kompaniy_wog.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056742_tov_wog_resurs.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056729_svitlana_ivakhiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056707_jk_v_monako_svitlany_ivakhiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056736_tetyana_buterlin_dubai.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056712_mykola_biletskiy_getcontact.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056680_ivahiv-scheme.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056674_groshovi_perekazy_tetyany_ivakhiv.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://blackboxosint.com/ru/kak-nardep-stepan-ivahiv-posle-nachala-voiny-vyvel-milliony-dollarov-iz-ukrainskoi-ekonomiki/</loc>
+		<lastmod>2026-04-13T05:46:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056686_ivahiv_1214_260.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056747_vidviduvamist_stepana_ivakhiva.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056717_rada_stepan_ivakhiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056722_struktura_kompaniy_wog.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056742_tov_wog_resurs.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056729_svitlana_ivakhiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056707_jk_v_monako_svitlany_ivakhiv.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056736_tetyana_buterlin_dubai.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056712_mykola_biletskiy_getcontact.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056680_ivahiv-scheme.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://blackboxosint.com/wp-content/uploads/2026/04/cleaned1776056674_groshovi_perekazy_tetyany_ivakhiv.png</image:loc>
+		</image:image>
+	</url>
+>>>>>>> Stashed changes
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
